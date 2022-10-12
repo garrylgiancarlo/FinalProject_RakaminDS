@@ -1,6 +1,6 @@
-# FinalProject_RakaminDS
-Stage 1 Exploratory Data Analysis - 259 Analytics
-## Content
+# Final Project Rakamin DS - 259 Analytics
+## Stage 1 Exploratory Data Analysis
+### Content
 - Descriptive Analysis
 - Univariate Analysis
 - Multivariate Analysis
@@ -38,3 +38,8 @@ Setelah melakukan analisis diatas dapat ditarik beberapa insight
 - Customer dengan **Tenure** rendah memiki kecendeningan untuk **Churn** lebih tinggi
 - Customer yang pernah melakukan **Complain** lebih banyak memiliki kecenderungan untuk **Churn** lebih tinggi
 - Customer dengan **status single** memiliki tingkat **churn** paling tinggi dibandingkan status lainnya
+
+## Stage 2 Data Preprocessing
+### Content
+- Data Cleansing
+- Feature Engineering
