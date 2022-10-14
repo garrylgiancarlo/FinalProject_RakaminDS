@@ -43,3 +43,14 @@ Setelah melakukan analisis diatas dapat ditarik beberapa insight
 ### Content
 - Data Cleansing
 - Feature Engineering
+
+### 1. Data Cleansing
+- Handle missing values
+- Handle outliers
+- Feature transformation
+- Feature encoding
+- Handle class imbalance
+
+### 2. Feature Engineering
+- Feature Selection
+- Fetaure Extraction
