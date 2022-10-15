@@ -53,4 +53,4 @@ Setelah melakukan analisis diatas dapat ditarik beberapa insight
 
 ### 2. Feature Engineering
 - Feature Selection
-- Fetaure Extraction
+- Feature Extraction
